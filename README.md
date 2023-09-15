@@ -1,6 +1,6 @@
 # Ordinals Collections Standards
 
-#### A place for creators &amp; builders to organize ordinal collections!
+#### A place for creators & builders to organize ordinal collections!
 
 ## Getting Started
 
